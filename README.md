@@ -2,7 +2,7 @@
 
 
 
-# The following libraries are required to run the code:
+The following libraries are required to run the code:
 
 # PIL: Python Imaging Library for image processing
 # numpy: Numerical computing library
