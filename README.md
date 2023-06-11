@@ -1,4 +1,4 @@
-# FingerPrintRecognition using Neural Network Binary Classification
+# Fingerprint Recognition using Neural Network Binary Classification
 
 Aim: The aim of this project is to develop a neural network model that is both efficient and accurate in its predictions. The model will be implemented using the NumPy library, focusing on the main mathematical ideas behind neural networks.
 
